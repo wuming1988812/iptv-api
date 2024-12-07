@@ -158,11 +158,6 @@ docker run -v /etc/docker/config:/iptv-api-lite/config -v /etc/docker/output:/ip
 [Changelog](./CHANGELOG.md)
 
 
-## Follow
-
-Wechat public account search for Govin, or scan the code to receive updates and learn more tips:
-
-![Wechat public account](./static/images/qrcode.jpg)
 
 ## Disclaimer
 
