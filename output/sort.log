@@ -1053,6 +1053,7 @@ Name: 湖南卫视, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000
 Name: 湖南卫视, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009115/1.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 湖南卫视, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225745/2/index.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 湖南卫视, URL: http://[2409:8087:5e08:24::11]:6610/000000001000/1000000005000265024/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265024&livemode=1&stbId=3$订阅源, Date: None, Resolution: None, Response Time: 0 ms
+Name: 湖南卫视, URL: http://[2409:8087:74f0:22::4]:6410/270000001128/9900000523/index.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 北京卫视, URL: http://[2409:8087:1a0a:df::4038]:80/wh7f454c46tw3547342772_34981265/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8?icpid=88888888&RTS=1713970376&from=4&hms_devid=1211&online=1713970376&vqe=3$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 北京卫视, URL: http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 北京卫视, URL: http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226450/index.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
