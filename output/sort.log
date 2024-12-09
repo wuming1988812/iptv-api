@@ -1670,6 +1670,7 @@ Name: 吉林卫视, URL: http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888
 Name: 吉林卫视, URL: http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 吉林卫视, URL: http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw342769965_-1981608007/ott.mobaibox.com/PLTV/3/224/3221228028/index.m3u8?icpid=3&RTS=1674380458&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 吉林卫视, URL: http://[2409:8087:74d9:21::4]:80/270000001128/index.m3u8?cmcc_cid=9900000030$订阅源, Date: None, Resolution: None, Response Time: 0 ms
+Name: 吉林卫视, URL: http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000533/index.m3u8??$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 江苏卫视, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225702/2/index.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 江苏卫视, URL: http://[2409:8087:74f0:22::6]:6410/270000001128/9900000524/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000524$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 江苏卫视, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000524/index.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
@@ -1803,6 +1804,7 @@ Name: 辽宁卫视, URL: http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.
 Name: 辽宁卫视, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225696/2/index.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 辽宁卫视, URL: http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000326/index.m3u8?IASHttpSessionId=$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 辽宁卫视, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225735/2/index.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
+Name: 辽宁卫视, URL: http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw2373915483_-1232008054/ott.mobaibox.com/PLTV/3/224/3221227410/index.m3u8?icpid=3&RTS=1674386784&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 内蒙古卫视, URL: http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2228825807_1324573507/ott.mobaibox.com/PLTV/3/224/3221227557/index.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 内蒙古卫视, URL: http://[2409:8087:1a0a:df::4035]:80/wh7f454c46tw2996322019_-1749293790/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: 内蒙古卫视, URL: http://[2409:8087:74d9:21::6]:80/270000001128/9900000044/index.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
