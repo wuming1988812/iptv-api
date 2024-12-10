@@ -36,11 +36,11 @@
 - Interface source:
 
 ```bash
-https://ghp.ci/raw.githubusercontent.com/wuming1988812/iptv-api/gd/output/result.m3u
+https://ghp.ci/raw.githubusercontent.com/wuming1988812/iptv-api/master/output/user_result.m3u
 ```
 
 ```bash
-https://ghp.ci/raw.githubusercontent.com/wuming1988812/iptv-api/gd/output/result.txt
+https://ghp.ci/raw.githubusercontent.com/wuming1988812/iptv-api/master/output/user_result.txt
 ```
 
 - Data source:
