@@ -799,6 +799,7 @@ Name: CCTV-16, URL: http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/P
 Name: CCTV-16, URL: http://[2409:8087:74f0:22::5]:6410/270000001128/9900000016/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000715$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: CCTV-16, URL: http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: CCTV-16, URL: http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000016$订阅源, Date: None, Resolution: None, Response Time: 0 ms
+Name: CCTV-16, URL: http://[2409:8087:74d9:21::9]:80/270000001128/index.m3u8?cmcc_cid=9900000016$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: CCTV-17, URL: http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: CCTV-17, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268004/$订阅源, Date: None, Resolution: None, Response Time: 0 ms
 Name: CCTV-17, URL: http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3$订阅源, Date: None, Resolution: None, Response Time: 0 ms
