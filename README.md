@@ -41,11 +41,11 @@
 - 接口源：
 
 ```bash
-https://ghp.ci/raw.githubusercontent.com/wuming1988812/iptv-api/master/output/user_result.m3u
+https://ghp.ci/raw.githubusercontent.com/wuming1988812/cctv/master/output/user_result.m3u
 ```
 
 ```bash
-https://ghp.ci/raw.githubusercontent.com/wuming1988812/iptv-api/master/output/user_result.txt
+https://ghp.ci/raw.githubusercontent.com/wuming1988812/cctv/master/output/user_result.txt
 ```
 
 - 数据源：
