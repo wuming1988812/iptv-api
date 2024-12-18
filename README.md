@@ -11,11 +11,6 @@
 https://raw.githubusercontent.com/wuming1988812/cctv/master/output/result.txt
 ```
 
-```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt
-```
-
-
 ## 免责声明
 
 本项目仅供学习交流用途，接口数据均来源于网络，如有侵权，请联系删除
