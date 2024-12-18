@@ -8,7 +8,7 @@
 - 接口源：
 
 ```bash
-https://raw.githubusercontent.com/wuming1988812/cctv/master/output/result.txt
+https://gh-proxy.com/raw.githubusercontent.com/wuming1988812/cctv/master/output/result.txt
 ```
 
 ## 免责声明
