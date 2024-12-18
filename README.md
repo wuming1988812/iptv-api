@@ -8,7 +8,7 @@
 - 接口源：
 
 ```bash
-https://cdn.jsdelivr.net/gh/wuming1988812/cctv@gd/master/output/result.txt
+https://raw.githubusercontent.com/wuming1988812/cctv/master/output/result.txt
 ```
 
 ```bash
